@@ -4,8 +4,8 @@
     "static/js/0.c2652fe1.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/0.c2652fe1.chunk.js.map",
     "main.js": "https://dapp.treasuretoken.finance/static/js/main.aa4b54a4.chunk.js",
     "main.js.map": "https://dapp.treasuretoken.finance/static/js/main.aa4b54a4.chunk.js.map",
-    "runtime-main.js": "https://dapp.treasuretoken.finance/static/js/runtime-main.a13f65d9.js",
-    "runtime-main.js.map": "https://dapp.treasuretoken.finance/static/js/runtime-main.a13f65d9.js.map",
+    "runtime-main.js": "https://dapp.treasuretoken.finance/static/js/runtime-main.e5d5645b.js",
+    "runtime-main.js.map": "https://dapp.treasuretoken.finance/static/js/runtime-main.e5d5645b.js.map",
     "static/js/3.4832cd4d.chunk.js": "https://dapp.treasuretoken.finance/static/js/3.4832cd4d.chunk.js",
     "static/js/3.4832cd4d.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/3.4832cd4d.chunk.js.map",
     "static/js/4.84d02cda.chunk.js": "https://dapp.treasuretoken.finance/static/js/4.84d02cda.chunk.js",
@@ -18,8 +18,8 @@
     "static/js/7.462f50fa.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/7.462f50fa.chunk.js.map",
     "static/js/8.a201743a.chunk.js": "https://dapp.treasuretoken.finance/static/js/8.a201743a.chunk.js",
     "static/js/8.a201743a.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/8.a201743a.chunk.js.map",
-    "static/js/9.9ed75ac5.chunk.js": "https://dapp.treasuretoken.finance/static/js/9.9ed75ac5.chunk.js",
-    "static/js/9.9ed75ac5.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/9.9ed75ac5.chunk.js.map",
+    "static/js/9.5ea9808d.chunk.js": "https://dapp.treasuretoken.finance/static/js/9.5ea9808d.chunk.js",
+    "static/js/9.5ea9808d.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/9.5ea9808d.chunk.js.map",
     "static/js/10.61fa29b2.chunk.js": "https://dapp.treasuretoken.finance/static/js/10.61fa29b2.chunk.js",
     "static/js/10.61fa29b2.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/10.61fa29b2.chunk.js.map",
     "static/js/11.d5c763a4.chunk.js": "https://dapp.treasuretoken.finance/static/js/11.d5c763a4.chunk.js",
@@ -45,7 +45,7 @@
     "static/media/x.33076876.svg": "https://dapp.treasuretoken.finance/static/media/x.33076876.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a13f65d9.js",
+    "static/js/runtime-main.e5d5645b.js",
     "static/js/3.4832cd4d.chunk.js",
     "static/js/main.aa4b54a4.chunk.js"
   ]
