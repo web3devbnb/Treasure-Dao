@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.c2652fe1.chunk.js": "https://dapp.treasuretoken.finance/static/js/0.c2652fe1.chunk.js",
     "static/js/0.c2652fe1.chunk.js.map": "https://dapp.treasuretoken.finance/static/js/0.c2652fe1.chunk.js.map",
-    "main.js": "https://dapp.treasuretoken.finance/static/js/main.aa4b54a4.chunk.js",
-    "main.js.map": "https://dapp.treasuretoken.finance/static/js/main.aa4b54a4.chunk.js.map",
+    "main.js": "https://dapp.treasuretoken.finance/static/js/main.2d2865ea.chunk.js",
+    "main.js.map": "https://dapp.treasuretoken.finance/static/js/main.2d2865ea.chunk.js.map",
     "runtime-main.js": "https://dapp.treasuretoken.finance/static/js/runtime-main.e5d5645b.js",
     "runtime-main.js.map": "https://dapp.treasuretoken.finance/static/js/runtime-main.e5d5645b.js.map",
     "static/js/3.4832cd4d.chunk.js": "https://dapp.treasuretoken.finance/static/js/3.4832cd4d.chunk.js",
@@ -47,6 +47,6 @@
   "entrypoints": [
     "static/js/runtime-main.e5d5645b.js",
     "static/js/3.4832cd4d.chunk.js",
-    "static/js/main.aa4b54a4.chunk.js"
+    "static/js/main.2d2865ea.chunk.js"
   ]
 }
